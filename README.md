@@ -1,8 +1,10 @@
 # UsedCarAnalysis
 python
 
-このGitHubリポジトリでは、データ駆動型のアプローチを用いて中古車選びのプロセスを最適化する方法について解説しています。中古車市場は情報が多く、選択肢が豊富であるため、消費者としてはなるべく合理的な選択をしたいと考えるものです。そこで、重回帰分析やリッジ回帰といった先進的な統計的手法の利用価値を、実用的な観点から探求します。
+This GitHub repository describes how to optimize the used car selection process using a data-driven approach. The used car market is rich in information and options, and as a consumer, you want to make your choice as rational as possible. Therefore, the value of using advanced statistical methods such as multiple regression analysis and ridge regression is explored from a practical perspective.
 
-リポジトリ内のコードは、実際の市場データを基にして、これらの高度な技術が如何にして市場の複雑さを解き明かし、購入判断の妥当性を向上させるかを示します。さらに、複数の予測モデルを実装し、それぞれの有効性や、特定の状況において最も参考になるモデルはどれかを評価します。
+Code in the repository will be based on real market data to show how these advanced techniques can unravel the complexity of the market and improve the validity of purchasing decisions. In addition, multiple predictive models will be implemented to evaluate the effectiveness of each and which model is most informative in a particular situation.
 
-このプロジェクトを通じて、ユーザーはデータの背後にあるパターンやインサイトを理解し、それに基づいてより賢い中古車選びができるようになります。これは、単なる直感ではなく、実証に基づいた確固たる判断を下すためのステップを提供するものです。
+Through this project, users will be able to understand the patterns and insights behind the data and make smarter used car choices based on them. This provides a step toward making solid, empirically based decisions, rather than just a gut feeling.
+
+Translated with www.DeepL.com/Translator (free version)
