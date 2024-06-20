@@ -7,4 +7,3 @@ Code in the repository will be based on real market data to show how these advan
 
 Through this project, users will be able to understand the patterns and insights behind the data and make smarter used car choices based on them. This provides a step toward making solid, empirically based decisions, rather than just a gut feeling.
 
-Translated with www.DeepL.com/Translator (free version)
